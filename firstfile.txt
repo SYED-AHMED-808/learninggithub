@@ -1,0 +1,2 @@
+this is the first text file which i create on git hub by click on create file and give name and provide give extension
+and saving this file to learn further git hub 
