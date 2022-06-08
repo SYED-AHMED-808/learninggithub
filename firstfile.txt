@@ -1,2 +1,3 @@
 this is the first text file which i create on git hub by click on create file and give name and provide give extension
 and saving this file to learn further git hub 
+here i am continue typing or we can say that we are editing file again after doing the first commit
