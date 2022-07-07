@@ -1,3 +1,6 @@
 this is the first text file which i create on git hub by click on create file and give name and provide give extension
 and saving this file to learn further git hub 
 here i am continue typing or we can say that we are editing file again after doing the first commit
+from here i am learnign to create  a branch  
+branch is create for features and attritbute codes which we can be discountiued or testing purpose
+to create a branch we commit the code in branch
